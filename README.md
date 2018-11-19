@@ -3,7 +3,7 @@
 
 ## Full Support For Android and IOS.
 
-### This includes passenger app, driver app and web admin dashboard.
+### This include passenger app, driver app and web admin dashboard.
 
 
 ### :computer: Visit [Here](https://market.ionicframework.com/starters/uber-style-taxi-booking-app-built-with-ionic-3-upgradeable-to-4-with-firebase-realtime#description) to learn more.
